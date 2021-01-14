@@ -1,0 +1,149 @@
+body{
+    background-color:bisque;
+}
+
+#inputDisplayResultado{
+    font-size: 30pt;
+    width: 100%;
+    text-align: right;
+    font-family: "Calibri", sans-serif;
+}
+
+.areaCalculadora{
+    max-width: 400px;
+    max-height: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    font-family: "Calibri", sans-serif;
+    border: 1px solid black;   
+   
+}
+
+.row div{
+    padding: 0
+}
+
+.row div button{
+    width: 100%;
+}
+
+button#btnLimpar{
+    background-color: orange;
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnDividir{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnMultiplicar{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnSubtrair{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnSomar{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnResultado{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+}
+
+button#btnPonto{
+    background-color: rgb(56, 202, 56);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;
+    
+}
+
+button#btnValor0{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor1{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor2{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor3{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor4{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor5{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor6{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor7{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor8{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
+
+button#btnValor9{
+    background-color:rgba(116, 51, 223, 0.795);
+    color: black;
+    font-size: 22pt;
+    border: 1px solid black;    
+}
